@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  .container{
+    margin: auto;
+  }
+  
+  .jumbotron{
+    color: white;
+    background-color: rgb(9, 44, 138);
+  }
+  
+  
+  
